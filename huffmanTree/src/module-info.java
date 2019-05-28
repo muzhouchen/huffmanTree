@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author muzhouchen
+ *
+ */
+module huffmanTree {
+}
